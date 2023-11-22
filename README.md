@@ -1,4 +1,4 @@
-# Mary_Feaster_Resume
+# Mary Feaster Resume Repository
 
 ## Transitioning Auto Service Advisor to Data Analyst
 
@@ -28,7 +28,8 @@ I am eager to contribute my unique blend of skills and experiences to a team tha
 
 I'm actively seeking opportunities to apply my newfound skills in a challenging and collaborative environment. My resume is within this repository in both a viewable PDF and as a downloadable word file for your consideration. I would love to connect further to discuss how my background and skills align with the needs of your team.
 
-Looking forward to the possibilities ahead! 🚀
+Looking forward to the possibilities ahead!
 
 Best,
+
 Mary Feaster
